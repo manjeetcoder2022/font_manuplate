@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-image: url("banner_image.jpg");
+
+}
+.heading{
+    background-color: rgb(19, 167, 226);
+    padding: 1px;
+    box-shadow: 8px 8px 8px grey;
+}
+.heading h2{
+color: rgb(228, 26, 93);
+font-weight: bold;
+
+}
+.heading span{
+    color: burlywood;
+    font-size: 15px;
+}
+.heading h4{
+    font-weight: bold;
+    color: cornsilk;
+}
+footer{
+    /* background-color: grey;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-weight: bold;
+    padding: 0; */
+}
+footer h3{
+    color: rgb(186, 216, 206);
+    font-weight: bold;
+}
+footer a{
+    color: rgb(231, 51, 27);
+   
+}
+canvas{
+    margin-top: 0;
+  
+    border-radius: 20px;
+    border: 10px solid black;
+    margin-top: 120px;
+    margin-left: 50px;
+    margin-bottom: 20px !important;
+
+}
+video{
+    float: left;
+    margin-left: 20px !important;
+   border-radius: 20px;
+   margin-top: 0px;
+}
+#text_1{
+    text-align: center !important;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(213, 7, 175);
+margin-top: 50px !important;
+}
+input{
+    margin-top: 50px;
+}
